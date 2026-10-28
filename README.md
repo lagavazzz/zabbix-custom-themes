@@ -1,4 +1,4 @@
-the zip contains a separate build for each released line, each made from that version’s own source: 6.0, 7.0, 7.4 and 8.0. 
+The zip contains a separate build for each released line, each made from that version’s own source: 6.0, 7.0, 7.4 and 8.0. 
 Each build has two files that go into the frontend folder (the one with zabbix.php, usually /usr/share/zabbix or /usr/share/zabbix/ui):
 
 assets/styles/halloween-theme.css
@@ -18,5 +18,5 @@ Then pick it under User settings → Profile → Theme, or set it for everyone u
 
 Things to know:
 
-Versions without their own build: 6.2/6.4 use the 6.0 build and 7.2 uses the 7.0 build. They should be close, but I didn’t build those versions separately.
-Upgrades: a Zabbix package
+Versions without their own build: 6.2/6.4 use the 6.0 build and 7.2 uses the 7.0 build.
+They should be close, but I didn’t build those versions separately.
